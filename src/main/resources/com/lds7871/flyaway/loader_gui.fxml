@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<Pane prefHeight="600" prefWidth="600" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.lds7871.flyaway.C_LGUI.Loader_GuiController">
+
+    <Label cache="true" layoutX="25.0" layoutY="20.0" prefHeight="32.0" prefWidth="104.0" text="自身生命值:" textFill="#414170">
+      <font>
+         <Font name="SimHei" size="18.0" />
+      </font></Label>
+    <TextField layoutX="135.0" layoutY="20.0" prefHeight="36.0" prefWidth="47.0" text="5" id="自身生命值">
+      <font>
+         <Font size="18.0" />
+      </font></TextField>
+
+    <Label cache="true" layoutX="24.0" layoutY="60.0" prefHeight="32.0" prefWidth="104.0" text="自身射速:" textFill="#414170">
+        <font>
+            <Font name="SimHei" size="18.0" />
+        </font></Label>
+
+</Pane>

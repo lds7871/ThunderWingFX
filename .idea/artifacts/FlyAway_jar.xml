@@ -1,0 +1,36 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FlyAway:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FlyAway_jar</output-path>
+    <root id="archive" name="FlyAway.jar">
+      <element id="module-output" name="FlyAway" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/com/github/almasb/fxgl-core/17.2/fxgl-core-17.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/org/openjfx/javafx-controls/20-ea+4/javafx-controls-20-ea+4-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/org/jetbrains/kotlin/kotlin-stdlib/1.6.0/kotlin-stdlib-1.6.0-modular.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/com/github/almasb/fxgl-gameplay/17.2/fxgl-gameplay-17.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/org/openjfx/javafx-media/20-ea+4/javafx-media-20-ea+4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/com/gluonhq/attach/lifecycle/4.0.13/lifecycle-4.0.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/org/openjfx/javafx-base/20-ea+4/javafx-base-20-ea+4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/org/openjfx/javafx-fxml/20-ea+4/javafx-fxml-20-ea+4-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/com/fasterxml/jackson/core/jackson-annotations/2.12.1/jackson-annotations-2.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/org/openjfx/javafx-controls/20-ea+4/javafx-controls-20-ea+4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/org/kordamp/bootstrapfx/bootstrapfx-core/0.4.0/bootstrapfx-core-0.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/com/fasterxml/jackson/core/jackson-databind/2.12.1/jackson-databind-2.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/org/openjfx/javafx-graphics/20-ea+4/javafx-graphics-20-ea+4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/org/controlsfx/controlsfx/11.1.2/controlsfx-11.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/com/github/almasb/fxgl/17.2/fxgl-17.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/org/openjfx/javafx-media/20-ea+4/javafx-media-20-ea+4-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/org/openjfx/javafx-base/20-ea+4/javafx-base-20-ea+4-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/com/fasterxml/jackson/core/jackson-core/2.12.1/jackson-core-2.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/com/github/almasb/fxgl-scene/17.2/fxgl-scene-17.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/org/jetbrains/annotations/13.0/annotations-13.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/org/openjfx/javafx-graphics/20-ea+4/javafx-graphics-20-ea+4-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/com/gluonhq/attach/storage/4.0.13/storage-4.0.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/com/gluonhq/attach/util/4.0.13/util-4.0.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/org/jetbrains/kotlin/kotlin-stdlib-common/1.6.0/kotlin-stdlib-common-1.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/org/openjfx/javafx-fxml/20-ea+4/javafx-fxml-20-ea+4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/com/gluonhq/attach/audio/4.0.13/audio-4.0.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/com/github/almasb/fxgl-entity/17.2/fxgl-entity-17.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../app/JDK/Meaven/apache-maven-3.9.9/CangKu/com/github/almasb/fxgl-io/17.2/fxgl-io-17.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
