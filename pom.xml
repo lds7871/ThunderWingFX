@@ -110,7 +110,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>com.lds7871.flyaway/com.lds7871.flyaway.HelloApplication</mainClass>
+                            <mainClass>com.lds7871.flyaway.A_Contorller.Main</mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>
@@ -126,7 +126,7 @@
                 <artifactId>jpro-maven-plugin</artifactId>
                 <version>${jpro.version}</version>
                 <configuration>
-                    <mainClassName>com.lds7871.flyaway.HelloApplication</mainClassName>
+                    <mainClassName>com.lds7871.flyaway.A_Contorller.Main</mainClassName>
                 </configuration>
             </plugin>
         </plugins>
