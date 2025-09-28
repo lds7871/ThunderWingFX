@@ -12,7 +12,6 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <junit.version>5.9.1</junit.version>
-        <jpro.version>2025.3.1-SNAPSHOT</jpro.version>
     </properties>
 
     <repositories>
@@ -82,12 +81,6 @@
             <version>${junit.version}</version>
             <scope>test</scope>
         </dependency>
-        <dependency>
-            <groupId>one.jpro</groupId>
-            <artifactId>jpro-webapi</artifactId>
-            <version>${jpro.version}</version>
-            <scope>compile</scope>
-        </dependency>
     </dependencies>
 
     <build>
@@ -120,21 +113,6 @@
                         </configuration>
                     </execution>
                 </executions>
-            </plugin>
-            <plugin>
-                <groupId>one.jpro</groupId>
-                <artifactId>jpro-maven-plugin</artifactId>
-                <version>${jpro.version}</version>
-                <configuration>
-                    <mainClassName>com.lds7871.flyaway.A_Contorller.Main</mainClassName>
-                </configuration>
-                <dependencies>
-                    <dependency>
-                        <groupId>com.github.almasb</groupId>
-                        <artifactId>fxgl</artifactId>
-                        <version>17.2</version>
-                    </dependency>
-                </dependencies>
             </plugin>
         </plugins>
     </build>
